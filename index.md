@@ -3,7 +3,8 @@
 Ingenious Kasi-Amberis
 *Led RGB ajustavel por um potenciometro*
 
-![Visualização do Projeto](<img width="680" height="536" alt="Ingenious Kasi-Amberis" src="https://github.com/user-attachments/assets/b9feffcb-8ab2-4adb-8bb5-54cc001e56dc" />
+![Visualização do Projeto](<img width="680" height="536" alt="Ingenious Kasi-Amberis (1)" src="https://github.com/user-attachments/assets/730e8218-066c-45a8-8527-61e30e3e6d0c" />
+
 )
 
 [Ver Projeto Interativo no Tinkercad](https://www.tinkercad.com/things/iyXuBeMdKEM-ingenious-kasi-amberis?sharecode=Zbxw7bScznOS8M6GB4-y8zOD5wXX187hygmHBS-Mwyo)
@@ -11,7 +12,8 @@ Ingenious Kasi-Amberis
 Sensor
 *sensor de distância*
 
-![Visualização do Projeto](https://www.tinkercad.com/things/l25vGYaR1CT-sensor
+![Visualização do Projeto](<img width="680" height="536" alt="sensor" src="https://github.com/user-attachments/assets/4ad674a9-37b1-4ebc-953c-ed919d30a262" />
+
 )
 
 [Ver Projeto Interativo no Tinkercad](https://www.tinkercad.com/things/l25vGYaR1CT-sensor)
